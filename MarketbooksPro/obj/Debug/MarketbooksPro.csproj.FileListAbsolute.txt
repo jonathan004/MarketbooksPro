@@ -1,0 +1,17 @@
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.csprojResolveAssemblyReference.cache
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Biblioteca.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Clientes.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.MenuPrincipal.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Login.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Personal.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Productos.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Properties.Resources.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.Ventas.resources
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.csproj.GenerateResource.Cache
+C:\Proyectos\MarketbooksPro\MarketbooksPro\bin\Debug\MarketbooksPro.exe.config
+C:\Proyectos\MarketbooksPro\MarketbooksPro\bin\Debug\MarketbooksPro.exe
+C:\Proyectos\MarketbooksPro\MarketbooksPro\bin\Debug\MarketbooksPro.pdb
+C:\Proyectos\MarketbooksPro\MarketbooksPro\bin\Debug\itextsharp.dll
+C:\Proyectos\MarketbooksPro\MarketbooksPro\bin\Debug\itextsharp.xml
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.exe
+C:\Proyectos\MarketbooksPro\MarketbooksPro\obj\Debug\MarketbooksPro.pdb
